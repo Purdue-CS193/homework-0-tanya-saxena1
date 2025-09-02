@@ -18,7 +18,6 @@ Syntax highlighted code block
 - Learning more about CS
 - Help with CS Classes
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 
