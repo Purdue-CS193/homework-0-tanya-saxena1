@@ -14,9 +14,9 @@ Syntax highlighted code block
 # Tanya Saxena's First CS193 Homework
 
 ### Favorite Things About CS193
-- No exams
-- Learning more about CS
-- Help with CS Classes
+- **No** exams
+- Learning more about programming
+- Help with CS Tools
 
 
 [Link](url) and ![Image](src)
