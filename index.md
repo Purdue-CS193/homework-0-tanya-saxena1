@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### Favorite Things About CS193
 - **No** exams
 - Learning more about programming
-- Help with CS Tools
+- Help with CS tools
 
 
 [Link](url) and ![Image](src)
